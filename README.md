@@ -4,3 +4,9 @@
 - そば
 - 餃子
 - 寿司
+
+## 使ったことがあるプログラミング言語
+- Java
+- PHP
+- JavaScript
+- TypeScript
