@@ -10,3 +10,6 @@
 - PHP
 - JavaScript
 - TypeScript
+
+## 得意なプログラミング言語
+1. Java
