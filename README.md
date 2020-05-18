@@ -14,3 +14,6 @@
 ## 得意なプログラミング言語
 1. Java
 1. PHP
+
+## Javaでの Hello, World プログラム
+System.out.println("Hello, World!");
