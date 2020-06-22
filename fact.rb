@@ -20,3 +20,10 @@ def factR n
 end
 
 puts factR a
+
+def factR2 n
+        return 1 if n==0
+        return n*factR2(n-1) if n>0
+end
+
+puts factR2 a
